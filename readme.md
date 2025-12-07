@@ -53,17 +53,14 @@ Le design s’adapte automatiquement :
 - Layouts en grille (`grid`, `md:grid-cols-2`, etc.)  
 - Images en `object-cover` pour garder les proportions  
 
----
-
-## 📁 Structure du projet
-
-
----
-
 ## 🧩 Fonctionnement du menu mobile
 
 Le sidebar mobile utilise le système Tailwind :
 
 ```html
-<input type="checkbox" id="menu-toggle" class="peer hidden">
+<input type="checkbox" id="menu-toggle" class="peer hidden"/>
 <nav class="peer-checked:translate-x-0 ...">
+```
+---
+## 📸 Le projet
+![Le projet](./img/Capture%20d’écran%202025-12-07%20à%2015.38.24.png)
