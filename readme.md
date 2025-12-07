@@ -64,3 +64,4 @@ Le sidebar mobile utilise le système Tailwind :
 ---
 ## 📸 Le projet
 ![Le projet](./img/Capture%20d’écran%202025-12-07%20à%2015.38.24.png)
+
